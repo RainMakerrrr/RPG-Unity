@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc098bb3ede33724fb6a77235ef5b59f, type: 3}
+  m_Name: Banana
+  m_EditorClassIdentifier: 
+  ItemName: Banana
+  ItemIcon: {fileID: 21300000, guid: 35b1a34ca097dbe46ac2e88e03254276, type: 3}
+  isDefaultItem: 0
+  HealthUnits: 10
+  StaminaUnits: 15
+  DamageUnits: 0
+  Food: {fileID: 1000012997751318, guid: 0550765fb22bb954ea0412b7153ff417, type: 3}
